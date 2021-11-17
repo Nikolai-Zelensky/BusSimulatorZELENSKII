@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/zelensky/RiderProjects/Bus Simulator/Bus Simulator/Bus Simulator.csproj": {}
+  },
+  "projects": {
+    "/home/zelensky/RiderProjects/Bus Simulator/Bus Simulator/Bus Simulator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/zelensky/RiderProjects/Bus Simulator/Bus Simulator/Bus Simulator.csproj",
+        "projectName": "Bus Simulator",
+        "projectPath": "/home/zelensky/RiderProjects/Bus Simulator/Bus Simulator/Bus Simulator.csproj",
+        "packagesPath": "/home/zelensky/.nuget/packages/",
+        "outputPath": "/home/zelensky/RiderProjects/Bus Simulator/Bus Simulator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/zelensky/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
